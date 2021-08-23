@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.titulo-megatizze {
+  margin: 50px 0px;
+}
+
+#jogos table {
+  margin: 0 auto;
+}
